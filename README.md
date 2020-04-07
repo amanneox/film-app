@@ -23,6 +23,7 @@
      <td><img src="./img/mobile-1.png" width=350 height=480></td>
    </tr>
   </table>
+  
 ## Project setup
 ```
 yarn install
