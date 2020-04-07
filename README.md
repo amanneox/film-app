@@ -1,12 +1,12 @@
 # filmsapp
 
 ## URL
-[URL][url]
+[URL][http://film-app.s3-website.ap-south-1.amazonaws.com/]
 
 ## Images
-![image info](./img/desktop-1.png)
-![image info](./img/desktop-2.png)
-![image info](./img/mobile-1.png)
+![image info](./img/desktop-1.png =250x)
+![image info](./img/desktop-2.png =250x)
+![image info](./img/mobile-1.png =250x)
 ## Project setup
 ```
 yarn install
