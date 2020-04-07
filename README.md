@@ -1,5 +1,12 @@
 # filmsapp
 
+## URL
+[URL][url]
+
+## Images
+![image info](./img/desktop-1.png)
+![image info](./img/desktop-2.png)
+![image info](./img/mobile-1.png)
 ## Project setup
 ```
 yarn install
@@ -21,4 +28,4 @@ yarn lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference][configuration-reference].
