@@ -9,7 +9,7 @@
     "deploy": "aws s3 sync ./dist s3://film-app"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
     "vuetify": "^2.2.11"
